@@ -43,8 +43,6 @@ Follow these instructions to set up and run the project locally.
 
 ## Code
 
-### Program.cs
-
 ```csharp
 using System;
 using System.Collections.Generic;
